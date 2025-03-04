@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
-    int speed = 5;
+    int speed = 10;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
